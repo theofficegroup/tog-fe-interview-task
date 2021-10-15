@@ -29,6 +29,12 @@ Make sure you commit changes regularly and add clear comments with each commit.
 
 Please add a README.md with instructions on how to run your code.
 
+> Bonus points if you deploy your solution to a static hosting provider!
+
 Apart from the above you have total free range, so have some fun!
 
+When you are ready, send a link to your repo back to the agency to share with TOG.
+
 Please don't feel obliged to spend more than 3 hours on this - and don't worry if you don't finish, we can discuss what else you would have liked to do in the follow up interview.
+
+
