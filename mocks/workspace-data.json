@@ -1,0 +1,255 @@
+{
+  "title": "Meeting & Conference Rooms in London",
+  "intro": "With over 350 meeting and board rooms across the platform, you can choose from a variety of productive spaces to host your next pitch, interview or collaboration session. Whether you’re in London, Leeds, Bristol or Germany, our individually designed meeting rooms come fully equipped with high-quality tech, Wi-Fi and video conferencing technology, and our brilliant teams are on-hand to lend a hand throughout the day.",
+  "workspaces": [
+    {
+      "name": "133 Whitechapel High Street",
+      "address": "133 Whitechapel High Street, London E1 7QA",
+      "image": "https://www.theofficegroup.com/sites/default/files/styles/search_building_card_large_/public/acquiadam-assets/Hero_0.jpg",
+      "rooms": [
+        {
+          "size": "small",
+          "amount": 2,
+          "capacity": "2-7",
+          "price": "29-35",
+          "rate": "hourly"
+        },
+        {
+          "size": "medium",
+          "amount": 1,
+          "capacity": "8-15",
+          "price": "69",
+          "rate": "hourly"
+        },
+        {
+          "size": "small",
+          "amount": 1,
+          "capacity": "16+",
+          "price": "110",
+          "rate": "hourly"
+        }
+      ]
+    },
+    {
+      "name": "19 Eastbourne Terrace",
+      "address": "19 Eastbourne Terrace, London W2 6LG",
+      "image": "https://www.theofficegroup.com/sites/default/files/styles/search_building_card_large_/public/acquiadam-assets/TOG_19EBT_Hero.jpg",
+      "rooms": [
+        {
+          "size": "small",
+          "amount": 2,
+          "capacity": "2-7",
+          "price": "39-59",
+          "rate": "hourly"
+        },
+        {
+          "size": "medium",
+          "amount": 4,
+          "capacity": "8-15",
+          "price": "85-104",
+          "rate": "hourly"
+        },
+        {
+          "size": "small",
+          "amount": 1,
+          "capacity": "16+",
+          "price": "150",
+          "rate": "hourly"
+        }
+      ]
+    },
+    {
+      "name": "2 Angel Square",
+      "address": "2 Angel Square, London EC1V 1NY",
+      "rooms": [
+        {
+          "size": "small",
+          "amount": 3,
+          "capacity": "2-7",
+          "price": "65",
+          "rate": "hourly"
+        },
+        {
+          "size": "medium",
+          "amount": 4,
+          "capacity": "8-15",
+          "price": "91-98",
+          "rate": "hourly"
+        },
+        {
+          "size": "small",
+          "amount": 1,
+          "capacity": "16+",
+          "price": "150",
+          "rate": "hourly"
+        }
+      ]
+    },
+    {
+      "name": "133 Whitechapel High Street",
+      "address": "133 Whitechapel High Street, London E1 7QA",
+      "image": "https://www.theofficegroup.com/sites/default/files/styles/search_building_card_large_/public/acquiadam-assets/Hero_0.jpg",
+      "rooms": [
+        {
+          "size": "small",
+          "amount": 2,
+          "capacity": "2-7",
+          "price": "29-35",
+          "rate": "hourly"
+        },
+        {
+          "size": "medium",
+          "amount": 1,
+          "capacity": "8-15",
+          "price": "69",
+          "rate": "hourly"
+        },
+        {
+          "size": "small",
+          "amount": 1,
+          "capacity": "16+",
+          "price": "110",
+          "rate": "hourly"
+        }
+      ]
+    },
+    {
+      "name": "19 Eastbourne Terrace",
+      "address": "19 Eastbourne Terrace, London W2 6LG",
+      "image": "https://www.theofficegroup.com/sites/default/files/styles/search_building_card_large_/public/acquiadam-assets/TOG_19EBT_Hero.jpg",
+      "rooms": [
+        {
+          "size": "small",
+          "amount": 2,
+          "capacity": "2-7",
+          "price": "39-59",
+          "rate": "hourly"
+        },
+        {
+          "size": "medium",
+          "amount": 4,
+          "capacity": "8-15",
+          "price": "85-104",
+          "rate": "hourly"
+        },
+        {
+          "size": "small",
+          "amount": 1,
+          "capacity": "16+",
+          "price": "150",
+          "rate": "hourly"
+        }
+      ]
+    },
+    {
+      "name": "2 Angel Square",
+      "address": "2 Angel Square, London EC1V 1NY",
+      "rooms": [
+        {
+          "size": "small",
+          "amount": 3,
+          "capacity": "2-7",
+          "price": "65",
+          "rate": "hourly"
+        },
+        {
+          "size": "medium",
+          "amount": 4,
+          "capacity": "8-15",
+          "price": "91-98",
+          "rate": "hourly"
+        },
+        {
+          "size": "small",
+          "amount": 1,
+          "capacity": "16+",
+          "price": "150",
+          "rate": "hourly"
+        }
+      ]
+    },
+    {
+      "name": "133 Whitechapel High Street",
+      "address": "133 Whitechapel High Street, London E1 7QA",
+      "image": "https://www.theofficegroup.com/sites/default/files/styles/search_building_card_large_/public/acquiadam-assets/Hero_0.jpg",
+      "rooms": [
+        {
+          "size": "small",
+          "amount": 2,
+          "capacity": "2-7",
+          "price": "29-35",
+          "rate": "hourly"
+        },
+        {
+          "size": "medium",
+          "amount": 1,
+          "capacity": "8-15",
+          "price": "69",
+          "rate": "hourly"
+        },
+        {
+          "size": "small",
+          "amount": 1,
+          "capacity": "16+",
+          "price": "110",
+          "rate": "hourly"
+        }
+      ]
+    },
+    {
+      "name": "19 Eastbourne Terrace",
+      "address": "19 Eastbourne Terrace, London W2 6LG",
+      "image": "https://www.theofficegroup.com/sites/default/files/styles/search_building_card_large_/public/acquiadam-assets/TOG_19EBT_Hero.jpg",
+      "rooms": [
+        {
+          "size": "small",
+          "amount": 2,
+          "capacity": "2-7",
+          "price": "39-59",
+          "rate": "hourly"
+        },
+        {
+          "size": "medium",
+          "amount": 4,
+          "capacity": "8-15",
+          "price": "85-104",
+          "rate": "hourly"
+        },
+        {
+          "size": "small",
+          "amount": 1,
+          "capacity": "16+",
+          "price": "150",
+          "rate": "hourly"
+        }
+      ]
+    },
+    {
+      "name": "2 Angel Square",
+      "address": "2 Angel Square, London EC1V 1NY",
+      "rooms": [
+        {
+          "size": "small",
+          "amount": 3,
+          "capacity": "2-7",
+          "price": "65",
+          "rate": "hourly"
+        },
+        {
+          "size": "medium",
+          "amount": 4,
+          "capacity": "8-15",
+          "price": "91-98",
+          "rate": "hourly"
+        },
+        {
+          "size": "small",
+          "amount": 1,
+          "capacity": "16+",
+          "price": "150",
+          "rate": "hourly"
+        }
+      ]
+    }
+  ]
+}
