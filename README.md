@@ -1,6 +1,6 @@
 # tog-fe-interview-task
 
-A repo to host all the assets you need for the Front-end interview task for TOG candidates.
+A repo to host all the assets you need for the Developer interview task for TOG candidates.
 
 ## Intro
 
